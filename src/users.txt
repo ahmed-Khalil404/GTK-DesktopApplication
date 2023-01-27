@@ -1,0 +1,8 @@
+bensassi khalil khalil123 123456 Gestion_des_clubs valide
+yasser benouhiba yasser 123456 Technicien valide
+oussema gadria ouss 123456 Nutritioniste valide
+dhouha hmem dhouha 123456 Agent_du_foyer valide
+nourhen bs nourhen 123456 Etudiant valide
+amani bough amani 123456 Agent_du_stock valide
+mohamed ouhibi mohamed 123456 Admin valide
+flen fouleni flen123 123456 Admin valide

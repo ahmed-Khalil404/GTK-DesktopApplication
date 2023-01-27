@@ -1,0 +1,4 @@
+flen fouleni Male 1234 10 etage1 1
+abcd efg Femelle 0000 45 etage3 2
+klmn opq Male 258963 85 etage4 5
+ouhibi Mohamed Male 456789 22 etage1 2

@@ -1,0 +1,2 @@
+Lait boisson 12654 stockage_positive 5
+ViandeDeVache Viande 18546 stockage_negative 4
